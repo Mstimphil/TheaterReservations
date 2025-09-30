@@ -10,6 +10,8 @@ public class Main {
         String userName = myScanner.nextLine();
         System.out.println("What is the date of the show \"MM/dd/yy\"?" );
         String getDate = myScanner.nextLine();
+        System.out.println("How many tickets do you need");
+        String getTicket = myScanner.nextLine();
 
 
 
